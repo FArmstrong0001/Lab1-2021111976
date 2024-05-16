@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Arrays;
 
 public class MyString {
+    
     String raw_str= "";
 
     String[] word_array;
