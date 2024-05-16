@@ -34,6 +34,7 @@ public class DrawerExample extends Application {
     //第一问myGraph生成优化
     Label label_in_1;
 
+    
     @Override
     public void start(Stage primaryStage) {
         root = new BorderPane();
