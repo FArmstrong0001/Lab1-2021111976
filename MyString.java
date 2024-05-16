@@ -9,7 +9,6 @@ import java.util.Arrays;
 public class MyString {
     
     String raw_str= "";
-
     String[] word_array;
 
     public MyString(String path){

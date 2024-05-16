@@ -23,6 +23,7 @@ import javax.imageio.ImageIO;
 
 
 public class Graph extends Application{
+    
     private int V;
     private int[][] adjMatrix;
     //去重之后的单词数组

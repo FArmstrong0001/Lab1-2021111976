@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 public class RandomWalk {
+    
     Graph myGraph;
     String[] words;
 
