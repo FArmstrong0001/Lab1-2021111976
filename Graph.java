@@ -19,9 +19,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.*;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
-
 import javax.imageio.ImageIO;
-
 
 public class Graph extends Application{
     private int V;
